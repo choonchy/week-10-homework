@@ -1,0 +1,11 @@
+.jumbotron {
+	background: red;
+}
+
+.card-header {
+	background-color: aqua;
+}
+
+.card-body {
+	background: #ddd;
+}
